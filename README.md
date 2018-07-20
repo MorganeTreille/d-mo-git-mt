@@ -1,5 +1,4 @@
-[Git Logo](/documents/git.png)
-**#Les commandes git#**
+# **Les commandes git**
 
 Commande | Utilisation
 ---------|------------
@@ -9,7 +8,7 @@ cd .. | Revenir dans le dossier précédent
 ls | lister le dossier
 touch *nom de fichier* | Créer un fichier
 
-##Démarrer un projet##
+## **Démarrer un projet**
 
 * > git init : *initialise et crée le repository*
 * > git config : *permet de s'identifier (nom et adresse email)*
@@ -17,24 +16,21 @@ touch *nom de fichier* | Créer un fichier
 * > git log : *permet de voir l'historique*
 * > git checkout : *permet de revenir sur une version précédente*
 
-##Créer une branche##
+## **Créer une branche**
 
-> git branch *nom de la branche* : *Créer une branche*
-> git merge : *fusionner 2 branche*
+* > git branch *nom de la branche* : *Créer une branche*
+* > git merge : *fusionner 2 branche*
 
-##Dépôts distants##
+## **Dépôts distants**
 
-(/documents/gtihub.gif)
-Création d'un new repository sur GitHub : (http:/github.com)
+Création d'un new repository sur [GitHub](http:/github.com) :
 
-> git fetch : *recupérer l'historique*
-> git pull : *fusionne les repository*
-> git clone : *recupérer un repository distant en local*
+* > git fetch : *recupérer l'historique*
+* > git pull : *fusionne les repository*
+* > git clone : *recupérer un repository distant en local*
 
 
-##Documentation##
-
-[Doc](https://git-scm.com/doc)
+**[Documentation](https://git-scm.com/doc)**
 
 
 
