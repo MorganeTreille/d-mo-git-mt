@@ -1,3 +1,5 @@
+![git](http://kobashicomputing.com/wordpress/wp-content/uploads/git-for-windows.jpg)
+
 # **Les commandes git**
 
 Commande | Utilisation
