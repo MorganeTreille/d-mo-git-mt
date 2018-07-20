@@ -19,11 +19,14 @@ touch *nom de fichier* | Créer un fichier
 ## **Créer une branche**
 
 * > git branch *nom de la branche* : *Créer une branche*
-* > git merge : *fusionner 2 branche*
+* > git merge : *fusionner 2 branches*
 
 ## **Dépôts distants**
 
 Création d'un new repository sur [GitHub](http:/github.com) :
+
+* > git remote
+* > git push - u *nom branche distante* *nome branche local*
 
 * > git fetch : *recupérer l'historique*
 * > git pull : *fusionne les repository*
