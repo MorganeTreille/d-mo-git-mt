@@ -11,7 +11,7 @@ touch *nom de fichier* | Créer un fichier
 
 # **Les commandes git**
 
-## **Démarrer un projet**  :sunny:
+## **Démarrer un projet**  :sunny:  :sunny:  :sunny:
 
 > * git init : *initialise et crée le repository*
 > * git config : *permet de s'identifier (nom et adresse email)*
