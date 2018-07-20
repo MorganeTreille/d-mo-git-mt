@@ -1,5 +1,5 @@
 ![git](http://kobashicomputing.com/wordpress/wp-content/uploads/git-for-windows.jpg)
-# **Les commandes git**
+# **Les commandes générales**
 
 Commande | Utilisation
 ---------|------------
@@ -8,6 +8,8 @@ cd *nom du dossier* | Ouvrir un dossier
 cd .. | Revenir dans le dossier précédent
 ls | Lister le dossier
 touch *nom de fichier* | Créer un fichier
+
+# **Les commandes git**
 
 ## **Démarrer un projet**
 
