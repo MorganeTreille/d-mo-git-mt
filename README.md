@@ -33,8 +33,9 @@ Création d'un new repository sur [GitHub](http:/github.com) :
 > * git pull : *fusionne les repository*
 > * git clone : *recupérer un repository distant en local*
 
-**[Documentation](https://git-scm.com/doc)**
 
+
+**[Documentation](https://git-scm.com/doc)**
 ![Doc](https://confluence.atlassian.com/jiracore/files/770015487/771098115/2/1472047286271/JIRA-Cloud-Documentation.png)
 
 
