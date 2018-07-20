@@ -1,5 +1,4 @@
 ![git](http://kobashicomputing.com/wordpress/wp-content/uploads/git-for-windows.jpg)
-
 # **Les commandes git**
 
 Commande | Utilisation
@@ -7,7 +6,7 @@ Commande | Utilisation
 mkdir | Créer un fichier
 cd *nom du dossier* | Ouvrir un dossier
 cd .. | Revenir dans le dossier précédent
-ls | lister le dossier
+ls | Lister le dossier
 touch *nom de fichier* | Créer un fichier
 
 ## **Démarrer un projet**
@@ -36,7 +35,6 @@ Création d'un new repository sur [GitHub](http:/github.com) :
 
 
 ![Doc](https://confluence.atlassian.com/jiracore/files/770015487/771098115/2/1472047286271/JIRA-Cloud-Documentation.png)
-
 **[Documentation](https://git-scm.com/doc)**
 
 
