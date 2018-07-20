@@ -28,7 +28,7 @@ touch *nom de fichier* | Créer un fichier
 Création d'un new repository sur [GitHub](http:/github.com) :
 
 > * git remote
-> * git push - u *nom branche distante* *nome branche local*
+> * git push - u *nom branche distante* *nom branche local*
 
 > * git fetch : *recupérer l'historique*
 > * git pull : *fusionne les repository*
