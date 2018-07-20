@@ -14,6 +14,7 @@ touch *nom de fichier* | Créer un fichier
 > * git init : *initialise et crée le repository*
 > * git config : *permet de s'identifier (nom et adresse email)*
 > * git add : *enregistre les modifications dans l'index*
+> * git commit -m : *enregistre les modifications dans le repository*
 > * git log : *permet de voir l'historique*
 > * git checkout : *permet de revenir sur une version précédente*
 
